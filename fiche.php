@@ -8,7 +8,7 @@
 
 
 
-    <link rel="stylesheet" type="text/css" href="trombi.css">
+    <link rel="stylesheet" type="text/css" href="public/trombi.css">
 </head>
 
 <body>
